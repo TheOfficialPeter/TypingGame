@@ -1,0 +1,11 @@
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe.config
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\bin\Debug\Project 2.exe
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\bin\Debug\Project 2.pdb
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.AssemblyReference.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project_2.Form1.resources
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.GenerateResource.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project 2.exe
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Debug\Project 2.pdb

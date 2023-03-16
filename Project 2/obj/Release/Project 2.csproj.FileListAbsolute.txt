@@ -1,0 +1,15 @@
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\bin\Release\Project 2.exe.config
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\bin\Release\Project 2.exe
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\bin\Release\Project 2.pdb
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project 2.csproj.AssemblyReference.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project_2.Properties.Resources.resources
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project 2.csproj.GenerateResource.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project 2.csproj.CoreCompileInputs.cache
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project 2.exe
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project 2.pdb
+C:\Users\dv.2022.c4h2t2\source\repos\Project 2\Project 2\obj\Release\Project_2.mainWindow.resources
+C:\Users\foxwi\Documents\Project 2\Project 2\obj\Release\Project 2.csproj.AssemblyReference.cache
+C:\Users\foxwi\Documents\Project 2\Project 2\obj\Release\Project 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\foxwi\Documents\Project 2\Project 2\obj\Release\Project 2.exe
+C:\Users\foxwi\Documents\Project 2\Project 2\obj\Release\Project 2.pdb
